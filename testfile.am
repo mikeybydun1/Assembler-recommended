@@ -1,0 +1,8 @@
+cmp #3, r4
+lb: add #-5
+mov r2
+inc r1, r2
+.string "aa"
+
+S: .struct 5,"AS"
+S2: .data 4,2

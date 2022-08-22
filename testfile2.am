@@ -1,0 +1,2 @@
+mov r1, r2
+S: .struct "ab",-3
