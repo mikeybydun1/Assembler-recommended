@@ -1,5 +1,8 @@
 ![Assembler project](https://user-images.githubusercontent.com/102487763/186521866-78914c94-1289-4dad-b196-caaa40f01815.png)
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sKKPmYWuc_Y/0.jpg)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
+
 **🖥️ What is the `assembler` project?**
 ---
 The `assembler` gets an `.am` file (excample of assembly file),
