@@ -1,8 +1,6 @@
 ![Assembler project](https://user-images.githubusercontent.com/102487763/186521866-78914c94-1289-4dad-b196-caaa40f01815.png)
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sKKPmYWuc_Y/0.jpg)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
-
 **🖥️ What is the `assembler` project?**
 ---
 The `assembler` gets an `.am` file (excample of assembly file),
@@ -10,6 +8,8 @@ translate the file to binary and creat 4 out put files (explained below)
 
 **🔸Video explanation of how to run the project**
 ---
+<a  href="https://www.youtube.com/watch?v=sKKPmYWuc_Y"><img src="http://easytutorials.net/wp-content/uploads/2022/01/video-tutorial-image.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="450" height="360" /></a>        
+
 
 **📝 Important features**
 ---
