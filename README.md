@@ -3,8 +3,8 @@
 
 **🖥️ What is the `assembler` project?**
 ---
-The `assembler` gets an `.am` file (excample of assembly file),
-translate the file to binary and creat 4 out put files (explained below)
+The `assembler` gets an `.am` file (example of assembly file),
+translate the file to binary and create 4 out put files (explained below)
 
 **🔸Video explanation of how to run the project**
 ---
