@@ -3,12 +3,20 @@
 
 **🖥️ What is the `assembler` project?**
 ---
-The `assembler` gets an `.am` file (example of assembly file),
-translate the file to binary and create 4 out put files (explained below)
+
+The purpose of the `assembler`project is to compile an Assembly file to a Binary file. This project is written using C language and contains 
+10 C source code files, and 9 header files. 
+
+For further information regarding my project - I added a toturial video about the project, a link to a documentation landing page and some more general information down below. 
+
 
 **🔸Video explanation of how to run the project**
 ---
 <a  href="https://www.youtube.com/watch?v=sKKPmYWuc_Y"><img src="http://easytutorials.net/wp-content/uploads/2022/01/video-tutorial-image.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="450" height="360" /></a>        
+
+**💻 Link to a documentation landing page **
+https://shoppit.store/assembler-project/
+---
 
 
 **📝 Important features**
