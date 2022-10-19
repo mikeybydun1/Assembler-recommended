@@ -4,7 +4,7 @@
 **🖥️ What is the `assembler` project?**
 ---
 
-The purpose of the `assembler`project is to compile an Assembly file to a Binary file. This project is written using C language and contains 
+The purpose of the `Assembler` project is to compile an Assembly file to a Binary file. This project is written using C language and contains 
 10 C source code files, and 9 header files. 
 
 For further information regarding my project - I added a toturial video about the project, a link to a documentation landing page and some more general information down below. 
